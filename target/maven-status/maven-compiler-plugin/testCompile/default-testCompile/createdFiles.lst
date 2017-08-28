@@ -1,8 +1,0 @@
-com\mycomany\workset\guru\testcases\LoginUser.class
-com\mycomany\workset\guru\basetest\PageObject.class
-com\mycomany\workset\guru\testcases\NewCustomer.class
-com\mycomany\workset\guru\steps\LoginSteps.class
-com\mycomany\workset\guru\testcases\Login.class
-com\mycomany\workset\guru\testcases\LoginWithExcel.class
-com\mycomany\workset\guru\basetest\Encoding.class
-com\mycomany\workset\guru\basetest\Base.class
